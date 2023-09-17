@@ -38,7 +38,7 @@ st.error("Business Metrics between[ "+str(start_date)+"] and ["+str(end_date)+"]
 df2 = df[(df['OrderDate'] >= str(start_date)) & (df['OrderDate'] <= str(end_date))]
 
 #Toast for page refresh
-st.toast("Page has been refreshed")
+#st.toast("Page has been refreshed")
 
 #dataframe
 with st.expander("Filter Excel Dataset"):
