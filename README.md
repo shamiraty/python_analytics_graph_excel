@@ -1,5 +1,5 @@
 # VISUALIZE EXCEL DATA BY PYTHON | BUSINESS ANALYTICS WEB DASHBOARD USING STREAMLIT
-![121-1218689_business-intelligence-business-intelligence-business-icons](https://github.com/shamiraty/python_analytics_graph_excel/assets/129072179/9d8af5a7-12ee-47ec-9f86-def145f32820)
+![py](https://github.com/shamiraty/python_analytics_graph_excel/assets/129072179/7bc0a710-e0aa-4080-97d0-8776e7e21790)
 
 ## TURN DATA INTO KNOWLEDGE BASED 
 
