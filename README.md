@@ -1,28 +1,49 @@
-# python_analytics_graph_excel
+# VISUALIZE EXCEL DATA BY PYTHON | BUSINESS ANALYTICS WEB DASHBOARD USING STREAMLIT
+
+## TURN DATA INTO KNOWLEDGE BASED
+
+in today's world businesses are run using computer systems. this leads to high profits and durability in the market.
+
+These computer systems work to transform data into knowledge and thus enable quick and easy decisions to be made with great efficiency.
+
+lets us learn how to create an Analytics Dashboard using Microsoft Excel data as data source. we will use python programming language, css, html and streamlit library to create very attractive and dynamic Analytics Website dashboard
+
+you can use today's lesson as a basis for you to create your system with the data you have
+
+## Front Page | Bar Graph, Dot Plot, Histogram, Scatter Plot, Analytic Metrics
 ![1](https://github.com/shamiraty/python_analytics_graph_excel/assets/129072179/cec81a3e-213e-4f08-8a2f-a1dcd5d674d3)
 
-
+## Front Page2 | Bar Graph, Dot Plot, Histogram, Scatter Plot, Analytic Metrics
 ![2](https://github.com/shamiraty/python_analytics_graph_excel/assets/129072179/384df217-de5a-4ca1-8afb-6b2e33fde976)
 
-
+## DataFrame Displays Data from Excel File with filtered dataframe
 ![10](https://github.com/shamiraty/python_analytics_graph_excel/assets/129072179/a597221c-e7cd-4533-b1b1-7b23b54c81e9)
 
-
+## Date Picker to Filter Data
 ![13](https://github.com/shamiraty/python_analytics_graph_excel/assets/129072179/ebaabd79-f151-4d06-9bf5-5b1c2bb5957f)
 
+## Responsive View for Mobile App
+![11](https://github.com/shamiraty/python_analytics_graph_excel/assets/129072179/757d6f69-ffe4-4221-ac79-d565b9e78411)
 
-![11](https://github.com/shamiraty/python_analytics_graph_excel/assets/129072179/757d6f69-ffe4-4221-ac79-d565b9e78411)![12](https://github.com/shamiraty/python_analytics_graph_excel/assets/129072179/2b3d8c74-12cb-4729-aa3a-2950412bf9ca)
+## Responsive View for Mobile App
+![12](https://github.com/shamiraty/python_analytics_graph_excel/assets/129072179/2b3d8c74-12cb-4729-aa3a-2950412bf9ca)
 
+## Responsive View for Mobile App
+![5](https://github.com/shamiraty/python_analytics_graph_excel/assets/129072179/828f0679-2026-40e2-aa4b-66829ef0f1f7)
 
-![5](https://github.com/shamiraty/python_analytics_graph_excel/assets/129072179/828f0679-2026-40e2-aa4b-66829ef0f1f7)![6](https://github.com/shamiraty/python_analytics_graph_excel/assets/129072179/93120606-b0ea-4fa9-ba27-5ee0c3a3a365)
+## Responsive View for Mobile App
+![6](https://github.com/shamiraty/python_analytics_graph_excel/assets/129072179/93120606-b0ea-4fa9-ba27-5ee0c3a3a365)
 
+## Responsive View for Mobile App
+![3](https://github.com/shamiraty/python_analytics_graph_excel/assets/129072179/8433c87a-542a-48b0-8052-ba5805f3ca62)
 
+## Responsive View for Mobile App
+![4](https://github.com/shamiraty/python_analytics_graph_excel/assets/129072179/b7111162-f72a-4315-a965-aad45be2ba99)
 
-![3](https://github.com/shamiraty/python_analytics_graph_excel/assets/129072179/8433c87a-542a-48b0-8052-ba5805f3ca62)![4](https://github.com/shamiraty/python_analytics_graph_excel/assets/129072179/b7111162-f72a-4315-a965-aad45be2ba99)
+## Responsive View for Mobile App
+![15](https://github.com/shamiraty/python_analytics_graph_excel/assets/129072179/c01ac856-8fea-48a7-b077-4fb9f88d2cce)
 
-
-
-
-![15](https://github.com/shamiraty/python_analytics_graph_excel/assets/129072179/c01ac856-8fea-48a7-b077-4fb9f88d2cce)![6](https://github.com/shamiraty/python_analytics_graph_excel/assets/129072179/5ad81053-535f-4dd2-a96f-7acb6fdff604)
+## Responsive View for Mobile App
+![6](https://github.com/shamiraty/python_analytics_graph_excel/assets/129072179/5ad81053-535f-4dd2-a96f-7acb6fdff604)
 
 
