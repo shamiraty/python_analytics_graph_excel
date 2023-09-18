@@ -1,9 +1,8 @@
-# 🕐: VISUALIZE EXCEL DATA BY PYTHON | BUSINESS ANALYTICS WEB DASHBOARD USING STREAMLIT
+# 🕐 VISUALIZE EXCEL DATA BY PYTHON  |  BUSINESS ANALYTICS WEB DASHBOARD USING STREAMLIT
  
+## 🕐 TURN DATA INTO KNOWLEDGE BASED 
 
-## 🕐: TURN DATA INTO KNOWLEDGE BASED 
-
-NOTE: Today's world is competitive in business. The one with great technology will succeed in the market. in order for you to compete with today's world business. it is necessary to invest in Information Systems. and not only Information SYstems but especially on Business Intelligent Decision Systems.
+NOTE Today's world is competitive in business. The one with great technology will succeed in the market. in order for you to compete with today's world business. it is necessary to invest in Information Systems. and not only Information SYstems but especially on Business Intelligent Decision Systems.
 
 1. 📌in today's world businesses are run using computer systems. this leads to high profits and durability in the market.
 
@@ -12,8 +11,7 @@ NOTE: Today's world is competitive in business. The one with great technology wi
 3. 📌lets us learn how to create an Analytics Dashboard using Microsoft Excel data as data source. we will use python programming language, css, html and streamlit library to create very attractive and dynamic 
    Analytics Website dashboard
 
-4.📌 you can use today's lesson as a basis for you to create your system with the data you have
-
+4. 📌you can use today's lesson as a basis for you to create your system with the data you have
 
 ## Front Page | Bar Graph, Dot Plot, Histogram, Scatter Plot, Analytic Metrics
 ![1](https://github.com/shamiraty/python_analytics_graph_excel/assets/129072179/cec81a3e-213e-4f08-8a2f-a1dcd5d674d3)
@@ -52,3 +50,7 @@ NOTE: Today's world is competitive in business. The one with great technology wi
 ![6](https://github.com/shamiraty/python_analytics_graph_excel/assets/129072179/5ad81053-535f-4dd2-a96f-7acb6fdff604)
 
 
+contact:  WhatsApp +255675839840
+email:  sashashamsia@gmail.com
+plays tore:  https://play.google.com/store/apps/dev?id=7334720987169992827&hl=en&gl=US
+telegram: +255656848274
