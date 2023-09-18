@@ -2,13 +2,17 @@
 
 ## TURN DATA INTO KNOWLEDGE BASED
 
-in today's world businesses are run using computer systems. this leads to high profits and durability in the market.
+NOTE:Today's world is competitive in business. The one with great technology will succeed in the market. in order for you to compete with today's world business. it is necessary to invest in Information Systems. and not only Information SYstems but especially on Business Intelligent Decision Systems.
 
-These computer systems work to transform data into knowledge and thus enable quick and easy decisions to be made with great efficiency.
+1. in today's world businesses are run using computer systems. this leads to high profits and durability in the market.
 
-lets us learn how to create an Analytics Dashboard using Microsoft Excel data as data source. we will use python programming language, css, html and streamlit library to create very attractive and dynamic Analytics Website dashboard
+2. These computer systems work to transform data into knowledge and thus enable quick and easy decisions to be made with great efficiency.
 
-you can use today's lesson as a basis for you to create your system with the data you have
+3. lets us learn how to create an Analytics Dashboard using Microsoft Excel data as data source. we will use python programming language, css, html and streamlit library to create very attractive and dynamic 
+   Analytics Website dashboard
+
+4. you can use today's lesson as a basis for you to create your system with the data you have
+
 
 ## Front Page | Bar Graph, Dot Plot, Histogram, Scatter Plot, Analytic Metrics
 ![1](https://github.com/shamiraty/python_analytics_graph_excel/assets/129072179/cec81a3e-213e-4f08-8a2f-a1dcd5d674d3)
@@ -19,7 +23,7 @@ you can use today's lesson as a basis for you to create your system with the dat
 ## DataFrame Displays Data from Excel File with filtered dataframe
 ![10](https://github.com/shamiraty/python_analytics_graph_excel/assets/129072179/a597221c-e7cd-4533-b1b1-7b23b54c81e9)
 
-## Date Picker to Filter Data
+## Date Picker to Filter Data from Data Frame
 ![13](https://github.com/shamiraty/python_analytics_graph_excel/assets/129072179/ebaabd79-f151-4d06-9bf5-5b1c2bb5957f)
 
 ## Responsive View for Mobile App
