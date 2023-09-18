@@ -1,18 +1,18 @@
-# VISUALIZE EXCEL DATA BY PYTHON | BUSINESS ANALYTICS WEB DASHBOARD USING STREAMLIT
-![py](https://github.com/shamiraty/python_analytics_graph_excel/assets/129072179/7bc0a710-e0aa-4080-97d0-8776e7e21790)
+# 🕐: VISUALIZE EXCEL DATA BY PYTHON | BUSINESS ANALYTICS WEB DASHBOARD USING STREAMLIT
+ 
 
-## TURN DATA INTO KNOWLEDGE BASED 
+## 🕐: TURN DATA INTO KNOWLEDGE BASED 
 
 NOTE: Today's world is competitive in business. The one with great technology will succeed in the market. in order for you to compete with today's world business. it is necessary to invest in Information Systems. and not only Information SYstems but especially on Business Intelligent Decision Systems.
 
-1. in today's world businesses are run using computer systems. this leads to high profits and durability in the market.
+1. 📌in today's world businesses are run using computer systems. this leads to high profits and durability in the market.
 
-2. These computer systems work to transform data into knowledge and thus enable quick and easy decisions to be made with great efficiency.
+2. 📌These computer systems work to transform data into knowledge and thus enable quick and easy decisions to be made with great efficiency.
 
-3. lets us learn how to create an Analytics Dashboard using Microsoft Excel data as data source. we will use python programming language, css, html and streamlit library to create very attractive and dynamic 
+3. 📌lets us learn how to create an Analytics Dashboard using Microsoft Excel data as data source. we will use python programming language, css, html and streamlit library to create very attractive and dynamic 
    Analytics Website dashboard
 
-4. you can use today's lesson as a basis for you to create your system with the data you have
+4.📌 you can use today's lesson as a basis for you to create your system with the data you have
 
 
 ## Front Page | Bar Graph, Dot Plot, Histogram, Scatter Plot, Analytic Metrics
