@@ -1,6 +1,7 @@
 # VISUALIZE EXCEL DATA BY PYTHON | BUSINESS ANALYTICS WEB DASHBOARD USING STREAMLIT
+![121-1218689_business-intelligence-business-intelligence-business-icons](https://github.com/shamiraty/python_analytics_graph_excel/assets/129072179/9d8af5a7-12ee-47ec-9f86-def145f32820)
 
-## TURN DATA INTO KNOWLEDGE BASED
+## TURN DATA INTO KNOWLEDGE BASED 
 
 NOTE: Today's world is competitive in business. The one with great technology will succeed in the market. in order for you to compete with today's world business. it is necessary to invest in Information Systems. and not only Information SYstems but especially on Business Intelligent Decision Systems.
 
