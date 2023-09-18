@@ -175,7 +175,7 @@ soupsieve==2.4.1
 sqlparse==0.4.4
 st-annotated-text==4.0.0
 statsmodels==0.14.0
-streamlit==1.26.0
+streamlit==23.2.1
 streamlit-aggrid==0.3.4.post3
 streamlit-apexjs==0.0.3
 streamlit-camera-input-live==0.2.0
