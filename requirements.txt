@@ -6,6 +6,14 @@ adafruit-circuitpython-sd==3.3.18
 adafruit-circuitpython-typing==1.9.2
 Adafruit-PlatformDetect==3.45.1
 Adafruit-PureIO==1.1.10
+absl-py==1.4.0
+Adafruit-Blinka==8.19.0
+adafruit-circuitpython-busdevice==5.2.4
+adafruit-circuitpython-requests==1.13.2
+adafruit-circuitpython-sd==3.3.18
+adafruit-circuitpython-typing==1.9.2
+Adafruit-PlatformDetect==3.45.1
+Adafruit-PureIO==1.1.10
 aenum==3.1.15
 altair==4.2.2
 altair-data-server==0.4.1
