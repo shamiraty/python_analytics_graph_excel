@@ -14,6 +14,8 @@ NOTE Today's world is competitive in business. The one with great technology wil
 4. 📌you can use today's lesson as a basis for you to create your system with the data you have
 
 ## Front Page | Bar Graph, Dot Plot, Histogram, Scatter Plot, Analytic Metrics
+![17](https://github.com/shamiraty/python_analytics_graph_excel/assets/129072179/160ce35b-cfc5-458f-880c-4697a1a74c6b)
+
 ![1](https://github.com/shamiraty/python_analytics_graph_excel/assets/129072179/cec81a3e-213e-4f08-8a2f-a1dcd5d674d3)
 
 ## Front Page2 | Bar Graph, Dot Plot, Histogram, Scatter Plot, Analytic Metrics
