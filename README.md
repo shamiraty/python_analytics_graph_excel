@@ -2,7 +2,7 @@
 
 ## TURN DATA INTO KNOWLEDGE BASED
 
-NOTE:Today's world is competitive in business. The one with great technology will succeed in the market. in order for you to compete with today's world business. it is necessary to invest in Information Systems. and not only Information SYstems but especially on Business Intelligent Decision Systems.
+NOTE: Today's world is competitive in business. The one with great technology will succeed in the market. in order for you to compete with today's world business. it is necessary to invest in Information Systems. and not only Information SYstems but especially on Business Intelligent Decision Systems.
 
 1. in today's world businesses are run using computer systems. this leads to high profits and durability in the market.
 
